@@ -1,6 +1,6 @@
 # Mars Web Scraping and Data Analysis
 
-This repository contains the solutions for the Module 12 Challenge of the Data Analytics Boot Camp at the University of Toronto. The challenge involves web scraping and data analysis tasks related to Mars news articles and Mars weather data.
+This repository contains the solutions for the Module 11 Challenge involving web scraping and data analysis tasks related to Mars news articles and Mars weather data.
 
 ## Deliverable 1: Scrape Titles and Preview Text from Mars News
 
