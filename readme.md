@@ -45,19 +45,22 @@ In this section of the challenge, we perform web scraping to acquire Mars weathe
 
 #### Average Low Temperature by Month
 
-![Average Low Temperature by Month](outputs/low_avg_plot.png)
+![low_avg_plot](https://github.com/RahiemBrooks/Web_Scraping-Challenge/assets/135518113/0c04cdad-2504-422e-ba57-03bcebb2f451)
+
 
 Month 3 is the coldest month on Mars with an average temperature of -83.31 Celsius, while Month 8 is the hottest with an average temperature of -68.38 Celsius.
 
 #### Average Atmospheric Pressure by Month
 
-![Average Atmospheric Pressure by Month](outputs/pressure_avg_plot.png)
+![pressure_avg_plot](https://github.com/RahiemBrooks/Web_Scraping-Challenge/assets/135518113/7df8dbf2-1057-4fa9-a357-e350584182c9)
+
 
 Month 6 has the lowest atmospheric pressure on Mars (745.05 hPa), while Month 9 has the highest (913.31 hPa).
 
 #### Martian Year Length
 
-![Martian Year Length](outputs/days_plot.png)
+![days_plot](https://github.com/RahiemBrooks/Web_Scraping-Challenge/assets/135518113/8a8d1e7e-07a3-4b5d-80bd-ef41e06f805f)
+
 
 The distance from peak to peak in the plot indicates that a year on Mars is about 682 Earth days, which is close to the confirmed value of 687 Earth days.
 
